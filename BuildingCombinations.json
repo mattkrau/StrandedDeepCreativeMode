@@ -1,0 +1,80 @@
+{
+  "[0]Combination": {
+    "name": "Foundation",
+    "description": "A basic building foundation.",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION.prefab",
+    "isPlaceable": true,
+    "isExtension": false,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "CRAFTING_STICK"
+    }
+  },
+  "[1]Combination": {
+    "name": "Support",
+    "description": "A foundation support.",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_SUPPORT.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  },
+  "[2]Combination": {
+    "name": "Wall",
+    "description": "A wall.",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_WALL.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  },
+  "[3]Combination": {
+    "name": "Steps",
+    "description": "A set of steps ..no more jumping!",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_STEPS.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  },
+  "[4]Combination": {
+    "name": "Roof",
+    "description": "",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_ROOF.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  },
+  "[5]Combination": {
+    "name": "Door",
+    "description": "A door.",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_DOOR.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  }
+}
