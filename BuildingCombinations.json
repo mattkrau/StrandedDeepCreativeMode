@@ -40,7 +40,7 @@
   },
   "[3]Combination": {
     "name": "Steps",
-    "description": "A set of steps ..no more jumping!",
+    "description": "A set of steps.",
     "modifierDescription": "Modifier description goes here.",
     "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_STEPS.prefab",
     "isPlaceable": true,
@@ -69,6 +69,19 @@
     "description": "A door.",
     "modifierDescription": "Modifier description goes here.",
     "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_DOOR.prefab",
+    "isPlaceable": true,
+    "isExtension": true,
+    "isModifier": false,
+    "isNotified": false,
+    "materials": {
+      "[0]Material": "BUILDING_FOUNDATION"
+    }
+  },
+  "[6]Combination": {
+    "name": "Windowed Wall",
+    "description": "A wall with a window.",
+    "modifierDescription": "Modifier description goes here.",
+    "prefabAssetName": "Prefabs/StrandedObjects/Building/Balanced/FOUNDATION_WINDOW.prefab",
     "isPlaceable": true,
     "isExtension": true,
     "isModifier": false,
